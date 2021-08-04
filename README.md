@@ -8,6 +8,8 @@ I've used [Jupyter Notebook](https://jupyter.org/) for coding!
 
 Download datasets from database.rar(***database.sqlite***) file!
 
+I have used **[Sqlite3](https://docs.python.org/3/library/sqlite3.html)** for Data reading!
+
 # Sentiment Analysis on Amazon Reviews
 
 In this Project,

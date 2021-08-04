@@ -30,10 +30,10 @@ Sentiment analysis helps us to process huge amounts of data in an efficient and 
 
 # Preview 
 
-![Image1]()
-![Image2]()
-![Image3]()
-![Image4]()
+![Image1](https://github.com/Anuragtsl/Exploratory_Data_Analysis-Amazon_Customers_Sentiment_Analysis/blob/main/images/d1.png)
+![Image2](https://github.com/Anuragtsl/Exploratory_Data_Analysis-Amazon_Customers_Sentiment_Analysis/blob/main/images/d2.png)
+![Image3](https://github.com/Anuragtsl/Exploratory_Data_Analysis-Amazon_Customers_Sentiment_Analysis/blob/main/images/d3.png)
+![Image4](https://github.com/Anuragtsl/Exploratory_Data_Analysis-Amazon_Customers_Sentiment_Analysis/blob/main/images/d4.png)
 
 
 #Njoy!

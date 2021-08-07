@@ -14,7 +14,7 @@ I have used **[Sqlite3](https://docs.python.org/3/library/sqlite3.html)** for Da
 
 In this Project,
 
-I will analyze the Amazon reviews. The reviews are unstructured. In other words, the text is unorganized. 
+I have analyzed the Amazon reviews. The reviews are unstructured. In other words, the text is unorganized. 
 
 Sentiment analysis, however, helps us make sense of all this unstructured text by automatically tagging it. 
 
@@ -22,11 +22,11 @@ Sentiment analysis helps us to process huge amounts of data in an efficient and 
 
 **In this Project, I have:**
 
-* Give a brief theoretical background about sentiment analysis
+* Given a brief theoretical background about sentiment analysis
 
 * Perform sentiment analysis
 
-* Provide python codes for each step.
+* Provided python codes for each step.
 
 **You can follow along the Jupyter Notebook for more!**
 
